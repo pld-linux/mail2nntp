@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	autodeps	# don't BR packages needed only for resolving deps
 #
-%include	/usr/lib/rpm/macros.perl
 Summary:	E-mail to Newsgroup Bridge
 Name:		mail2nntp
 Version:	1.0
